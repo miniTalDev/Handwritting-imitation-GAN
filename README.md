@@ -1,7 +1,7 @@
 # HiGAN
 
 ## NEWs
-An improved work HiGAN+ is available at [https://github.com/ganji15/HiGANplus](https://github.com/ganji15/HiGANplus).
+An improved work HiGAN+ is available at [https://github.com/miniTalDev/Handwritting-imitation-GAN.git](https://github.com/miniTalDev/Handwritting-imitation-GAN.git).
 
 ## Introduction
 This is a PyTorch implementation of the paper **"HiGAN: Handwriting Imitation Conditioned on Arbitrary-Length Texts and Disentangled Styles"** (authored by **Ji Gan**  & **Weiwiang Wang** ).
@@ -20,7 +20,7 @@ The versions that were used for other Python-packages are listed in requirements
 
 To use the code, download the repository and change into it:
 
-`git clone https://github.com/ganji15/HiGAN.git`
+`git clone https://github.com/miniTalDev/Handwritting-imitation-GAN.git`
 
 `cd HiGAN`
 
